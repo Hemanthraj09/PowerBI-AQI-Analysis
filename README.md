@@ -50,9 +50,7 @@ The dataset underwent comprehensive cleaning and enhancement processes:
 - **Year**: Extracted year component for yearly comparisons
 - **Month**: Month number for seasonal pattern identification
 - **Month Name**: Full month names for better visualization labels
-- **Season**: Categorical seasons (Winter, Summer, Monsoon, Post-Monsoon)
 - **Day of Week**: Weekday analysis capabilities
-- **Quarter**: Quarterly business analysis support
 
 These additional temporal dimensions enable more granular analysis and better understanding of air quality patterns across different time periods.
 
